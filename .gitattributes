@@ -1,0 +1,8 @@
+# Normalize all text files to use LF in the repository
+* text=auto eol=lf
+
+# Force binary files to be handled properly
+*.jpg binary
+*.png binary
+*.gif binary
+*.jar binary
